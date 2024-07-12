@@ -5,3 +5,4 @@
 --> It takes the input as voice or video format. <br>
 --> Analyzes the input and extracts the text of the speech from the inputs.<br>
 --> Extractions are being ready as downloadable as .txt or .srt file while the text is displaying on the screen. 
+--> Displays the pitch analysis results as a graph.
